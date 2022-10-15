@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasath Theekshana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate</h3>
 
 <img align="right" width=400 src="https://i.gifer.com/NxfN.gif">
 
