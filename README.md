@@ -1,4 +1,4 @@
-<p style="background-image: url('https://c.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif');"
+
 <h1 align="center">Hi 👋, I'm Wasath Theekshana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
