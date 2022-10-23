@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wasath Theekshana</h1>
 <h3 align="center">Undergraduate</h3>
 
-<img align="right" width=400 src="https://i.gifer.com/NxfN.gif">
-
+ <img align="right" width=400 src="https://i.gifer.com/NxfN.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasaththeekshana&label=Profile%20views&color=0e75b6&style=flat" alt="wasaththeekshana" /> </p>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-
+<!--
 <p align="left"> <a href="https://twitter.com/wasatht" target="blank"><img src="https://img.shields.io/twitter/follow/wasatht?logo=twitter&style=for-the-badge" alt="wasatht" /></a> </p>
-
+-->
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
@@ -55,4 +54,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wasaththeekshana&show_icons=true&locale=en" alt="wasaththeekshana" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasaththeekshana&show_icons=true&locale=en&layout=compact" alt="wasaththeekshana" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasaththeekshana&show_icons=true&locale=en&layout=compact" alt="wasaththeekshana" /></p> -->
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1>Achievements</h1>
+
+[![@wasathlk's Holopin board](https://holopin.me/wasathlk)](https://holopin.io/@wasathlk)
