@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wasath Theekshana</h1>
 <h3 align="center">Undergraduate</h3>
 
- <img align="right" width=400 src="https://i.gifer.com/NxfN.gif"> 
+ <img align="right" width=250 src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasaththeekshana&label=Profile%20views&color=0e75b6&style=flat" alt="wasaththeekshana" /> </p>
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!--
 <p align="left"> <a href="https://twitter.com/wasatht" target="blank"><img src="https://img.shields.io/twitter/follow/wasatht?logo=twitter&style=for-the-badge" alt="wasatht" /></a> </p>
