@@ -20,6 +20,11 @@
     </p>
 </div>
 
+<div aligh='center'>
+  <p>Simple right ?</p> </br>
+  <p>Yeah that's me ! Wasath Theekshana from Sri Lanka.</p> </br>
+</div>
+
 <!--
 
 ### <div align="center">I'm Wasath, a full-time full-stack freelance developer 👨‍💻 </div>  
