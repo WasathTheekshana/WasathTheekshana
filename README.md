@@ -20,8 +20,8 @@
     </p>
 </div>
 
-<div aligh='center'>
-  <p>Simple right ?</p> </br>
+<div align='center'>
+  <a href="#">imple right?</a>
   <p>Yeah that's me ! Wasath Theekshana from Sri Lanka.</p> </br>
 </div>
 
