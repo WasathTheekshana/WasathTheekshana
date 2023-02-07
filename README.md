@@ -140,12 +140,12 @@
 ## Github Stats
 -->
 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="center" />
+<div align="left">
+ <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="left" />
 </div>  
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
+<div align="right">
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="right" />
 </div> 
 
 <!-- &layout=compact -->
@@ -153,9 +153,9 @@
 <br/>  
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=a4gjql9wskcgjqnq8n58qmh2o&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
-</div>  
+</div>   -->
 
 
 
