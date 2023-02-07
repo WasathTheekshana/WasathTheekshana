@@ -24,7 +24,7 @@
 
 <div align='center'>
   <samp>
-  <p> Simple right? Yeah that's me! Wasath Theekshana from Sri Lanka🤍</p> </br>
+  <p> Simple right? Yeah that's me! | I'm Wasath Theekshana from Sri Lanka🤍</p> </br>
   </samp>
 </div>
 
