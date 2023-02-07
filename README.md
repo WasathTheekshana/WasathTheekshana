@@ -142,12 +142,12 @@
 
 </br>
 
-<div align="left">
- <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="left" />
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="center" />
 </div>  
 
-<div align="right">
-<img style="width: 41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="right" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
 </div> 
 
 <!-- &layout=compact -->
