@@ -20,9 +20,12 @@
     </p>
 </div>
 
+<br>
+
 <div align='center'>
-  <a href="#">imple right?</a>
-  <p>Yeah that's me ! Wasath Theekshana from Sri Lanka.</p> </br>
+  <samp>
+  <p> Simple right? Yeah that's me! Wasath Theekshana from Sri Lanka🤍</p> </br>
+  </samp>
 </div>
 
 <!--
@@ -42,9 +45,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 -->
-
-
-<br/>  
 
 <!--
 
