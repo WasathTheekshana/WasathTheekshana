@@ -143,12 +143,14 @@
 </br>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
+</div> 
+
+<div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="center" />
 </div>  
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
-</div> 
+
 
 <!-- &layout=compact -->
 
