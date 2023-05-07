@@ -12,7 +12,7 @@
    <p align="center">
      <samp>
        <a href="https://linkedin.com/wasatht" target="_blank">LinkedIn</a> .
-       <a href="https://www.behance.net/wasathvihanga" target="_blank">Portfolio</a> .
+       <a href="https://www.wasath.me" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/wasath.theekshana" target="_blank">Reels</a> .
        <a href="https://www.youtube.com/channel/UCyp6WVufUctZXAtP9D1Keuw" target="_blank">Youtube</a> .
        <a href="https://discordapp.com/users/Wasaaa#0743">Discord</a> 
