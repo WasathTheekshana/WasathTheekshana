@@ -6,8 +6,11 @@
   <img src="https://github.com/WasathTheekshana/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
 </div>  
 
-
   </br></br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Mirosoft+Learn+Student+Ambassador;Full+Stack+Developer;UI%2FUX+Engineer)](https://git.io/typing-svg)
+</div>
   
    <p align="center">
      <samp>
