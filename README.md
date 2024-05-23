@@ -6,7 +6,6 @@
 
 [![views](https://komarev.com/ghpvc/?username=WasathTheekshana&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/WasathTheekshana)
 
-
 <br/>
 
 Software Engineer @[ElysianCrest](https://www.elysiancrest.com)<br>
