@@ -5,3 +5,14 @@
 #### Developing software as the sun rises ☼, supporting open-source as the moon climbs ☾
 
 [![views](https://komarev.com/ghpvc/?username=WasathTheekshana&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/WasathTheekshana)
+
+
+<br/>
+
+Software Engineer @[ElysianCrest](https://www.elysiancrest.com)<br>
+Volunter @[FOSS NSBM](https://fossnsbm.org)<br>
+
+<br/>
+
+⚙️ I use daily  `.ts` `.js` `.go` `.tf` `.sh` `.yaml`  
+🦀 Learning `rust` to build super sonic softwares 
