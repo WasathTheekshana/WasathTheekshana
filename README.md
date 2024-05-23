@@ -1,4 +1,4 @@
-<img src="https://github.com/WasathTheekshana/WasathTheekshana/assets/91784445/637bf2a6-810c-477f-b6f6-5583ee8fad58" align="left" width="30%"/>
+<img src="https://github.com/WasathTheekshana/WasathTheekshana/assets/91784445/637bf2a6-810c-477f-b6f6-5583ee8fad58" align="left" width="40%"/>
 
 ### HELLO / ආයුබෝවන් / こんにちは  👋🏻
 
@@ -11,9 +11,7 @@ Volunter @[FOSS NSBM](https://fossnsbm.org)<br>
 
 <br/>
 
-
-
-<br/>  
+ 
 
 ⚙️ I use daily  `.ts` `.js` `.go` `.tf` `.sh` `.yaml`  
 🦀 Learning `rust` to build super sonic softwares  
