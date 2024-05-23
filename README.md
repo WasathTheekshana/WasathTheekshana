@@ -1,4 +1,4 @@
-<img src="https://github.com/WasathTheekshana/WasathTheekshana/assets/91784445/637bf2a6-810c-477f-b6f6-5583ee8fad58" align="left" width="40%"/>
+<img src="https://github.com/WasathTheekshana/WasathTheekshana/assets/91784445/637bf2a6-810c-477f-b6f6-5583ee8fad58" align="left" width="25%"/>
 
 ### HELLO / ආයුබෝවන් / こんにちは  👋🏻
 
