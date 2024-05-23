@@ -9,10 +9,6 @@ Volunter @[FOSS NSBM](https://fossnsbm.org)<br>
 
 [![views](https://komarev.com/ghpvc/?username=WasathTheekshana&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/WasathTheekshana)
 
-<br/>
-
- 
-
 ⚙️ I use daily  `.ts` `.js` `.go` `.tf` `.sh` `.yaml`  
 🦀 Learning `rust` to build super sonic softwares  
 💅 Uhhh, I watch anime btw
