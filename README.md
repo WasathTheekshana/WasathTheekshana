@@ -13,7 +13,8 @@ Volunter @[FOSS NSBM](https://fossnsbm.org)<br>
 
 
 
-<br/>
+<br/>  
 
 ⚙️ I use daily  `.ts` `.js` `.go` `.tf` `.sh` `.yaml`  
-🦀 Learning `rust` to build super sonic softwares 
+🦀 Learning `rust` to build super sonic softwares  
+💅 Uhhh, I watch anime btw
